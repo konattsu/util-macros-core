@@ -1,0 +1,8 @@
+[package]
+name = "util-macros-core"
+version = "0.1.0"
+authors = ["konattsu"]
+edition = "2021"
+license-file = "LICENSE"
+
+[dependencies]
