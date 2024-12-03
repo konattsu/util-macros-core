@@ -4,5 +4,7 @@ version = "0.1.0"
 authors = ["konattsu"]
 edition = "2021"
 license-file = "LICENSE"
+license = "Apache License 2.0"
+repository = "https://github.com/konattsu/util-macros-core"
 
 [dependencies]
